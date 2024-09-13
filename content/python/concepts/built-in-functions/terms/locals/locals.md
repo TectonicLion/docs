@@ -2,9 +2,16 @@
 
 Title: 'locals()'
 Description: 'The `locals()` function returns a dictionary with all the data necessary to run the program.'
-Subjects: Devloper tools, Computer science
-Tags: 'Dictionary, Metadata, Symbol'
-Catalog-content: 'learn python 3, paths/computer-science'
+Subjects: 
+- 'Devloper tools'
+- 'Computer science'
+Tags:
+- 'Dictionary' 
+- 'Metadata' 
+- 'Symbol'
+Catalog-content: 
+- 'learn python 3'
+- 'paths/computer-science'
 
 ---
 
